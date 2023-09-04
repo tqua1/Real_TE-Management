@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Tanea. i am currently working on learning javascript. I am looking for help with figuring out how to break down a process to code easier. A fun fact about me is that I will try any kind of food dish atleast once!
 
 <!--
 **tqua1/tqua1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
